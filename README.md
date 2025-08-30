@@ -10,7 +10,7 @@
             Ferramentas: Python e Java<br>
             Estudando Atualmente: PHP | Django Avançado | Java
             </p><div align = "left">
-              <a href="linkedin" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-51F74EFF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+              <a href="linkedin" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-51F74EFF?style=for-the-badge&logo=linkedin&logoColor=white" target="www.linkedin.com/in/davi-conserva-300262283"></a>
  </div>
     </td>
     <td align = left">
